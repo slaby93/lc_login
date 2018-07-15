@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DashboardContainer /> basic render 1`] = `<Dashboard__StyledComponent />`;
+
+exports[`<DashboardContainer /> mapDispatchToProps result shape 1`] = `
+Object {
+  "onLogout": [Function],
+}
+`;

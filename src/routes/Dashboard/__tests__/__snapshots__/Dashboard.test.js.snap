@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Dashboard /> CSS 1`] = `
+.c0 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c0 .Button__StyledComponent-hhslSX {
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  margin-top: 15%;
+}
+
+<Dashboard
+  className="c0"
+  onLogout={[Function]}
+/>
+`;
+
+exports[`<Dashboard /> HTML 1`] = `
+<div
+  className="test"
+>
+  <Button__StyledComponent
+    onClick={[Function]}
+  >
+    Logout
+  </Button__StyledComponent>
+</div>
+`;
